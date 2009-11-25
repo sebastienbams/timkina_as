@@ -1,13 +1,15 @@
 package viewsection.text
 {
 	import com.gskinner.motion.*;
+	
+	import flash.geom.Rectangle;
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.events.Event;
 	import flash.net.*;
-	import mx.effects.easing.*;	
-	import flash.display.Sprite;
 	import flash.text.*;
+	
+	import mx.effects.easing.*;
 
 	public class TextController extends Sprite
 	{
@@ -29,6 +31,9 @@ package viewsection.text
 
 			textBlock.height = Number(arg1.@height);
 			textBlock.width = Number(arg1.@width);
+			
+			h = Number(arg1.@height);
+			w = Number(arg1.@width);
 			
 			textBlock.multiline = true; 
  			textBlock.wordWrap = true; 
@@ -61,6 +66,8 @@ package viewsection.text
 
 		public function setText( HTMLText: String ):void
 		{
+			
+			scrollRect = new Rectangle(0, 0, w, h );
 			
 			textBlock.embedFonts = true;
 			textBlock.antiAliasType = AntiAliasType.ADVANCED;
@@ -138,6 +145,9 @@ package viewsection.text
         public var centrX: Boolean = false;
         
         protected var style:StyleSheet;
+        
+        private var h:Number = 0;
+        private var w:Number = 0;
         
 	}
 	

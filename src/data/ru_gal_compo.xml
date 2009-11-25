@@ -311,8 +311,32 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
  		</item> 
- 
+
+
           <item type="image">
+  		<image url="data/images/gallery/compo/15х20.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="В зазеркалье. 2009. Б, акв. 41,5х4,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
+          <item type="image">
+  		<image url="data/images/gallery/compo/duet.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дуэт. 2009. Б, акв. 65х50" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+  
+    
+         <item type="image">
   		<image url="data/images/gallery/compo/01007.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text=" " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
@@ -322,5 +346,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
  		</item> 	  	
+
+	  	
     
 </data>
