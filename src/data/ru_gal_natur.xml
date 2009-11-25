@@ -1,0 +1,282 @@
+<data>
+
+  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlNatur" />
+  
+  <item type="image">
+  		<image url="data/images/gallery/nature/020.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с зелеными бокалами. 2004. Б, акв. 44Х67 Из серии «Варшавское серебро»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/nature/018.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с красными бокалом. 2004. Б, акв. 36х69 Из серии «Варшавское серебро»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/nature/017.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с варшавским кувшином. 2003. Б, акв. 41х59 Из серии «Варшавское серебро»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+      <item type="image">
+  		<image url="data/images/gallery/nature/019.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с немецким кувшином. 2004. Б, акв. 36х67 Из серии «Варшавское серебро»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/nature/92.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с Андреевской лентой. 1992. Б, акв. 59х69 Музей Академии художеств (Санкт-Петербург)" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/055.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с офицерской саблей и игрушками — пушками Павла I. 1991. Б, акв. 32х53" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/003.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с личным оружием Великого князя Константина. 2007. Б, акв. 20х52" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/051.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с пушечками — игрушками Павла I. 1992. Б, акв. 17х45" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/022.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с прусскими доспехами. 1993. Б, акв. 43,5х60 Из серии «Оружейные натюрморты»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/023.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с розовым ковшом. 1990. Б, акв. 45х61" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/024.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Тихий свет осени. 1992. Б, акв. 45х80 " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/021.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с зелеными грушами. 1990. Б, акв. 38х55" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/nature/056.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с китайской вазой. 1992. Б, акв. 35х56" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+          <item type="image">
+  		<image url="data/images/gallery/nature/053.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт со скрипкой. 1998. Б, акв. 29х58 Из серии «Старинные мелодии»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+
+          <item type="image">
+  		<image url="data/images/gallery/nature/054.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с цитрой. 1998. Б, акв. 28х58 Из серии «Старинные мелодии»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+            <item type="image">
+  		<image url="data/images/gallery/nature/49.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с флейтами. 1998. Б, акв. 27х42 Из серии «Старинные мелодии»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+            <item type="image">
+  		<image url="data/images/gallery/nature/004.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с английским кувшином. 2007. Б, акв. 33х48" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+            <item type="image">
+  		<image url="data/images/gallery/nature/049.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с серебряным кувшинчиком и двумя лимонами. 1996. Б, акв. 20х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+            <item type="image">
+  		<image url="data/images/gallery/nature/047.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с двумя бокалами. 2007. Б, акв. 25х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+              <item type="image">
+  		<image url="data/images/gallery/nature/046.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт со стилетом. 2000. Б, акв. 19х24" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>   
+  
+  
+              <item type="image">
+  		<image url="data/images/gallery/nature/041.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Послание к Тициану. 2006. Б, акв. 23х35" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>   
+  
+              <item type="image">
+  		<image url="data/images/gallery/nature/048.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с подсвечником. 2007. Б, акв. 26х36 Из серии «Парижские ночи»" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>   
+  
+              <item type="image">
+  		<image url="data/images/gallery/nature/040.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с гранатом на розовой скатерти. 2007. Б, акв. 25х30 " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>       
+
+  
+	<item type="image">
+  		<image url="data/images/gallery/nature/050.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с тремя лимонами. 1996. Б, акв. 26х36" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>     
+  
+                <item type="image">
+  		<image url="data/images/gallery/nature/039.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Бабушкина икона. 2007. Б, акв. 32х27" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    </data>

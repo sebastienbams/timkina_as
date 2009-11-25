@@ -1,0 +1,96 @@
+<data>
+
+	<nastr x="0" y="67" height="97" width="1024" />
+	
+
+
+	<item id="sound" image="data/images/sound_1.png" imageHover="data/images/sound_2.png"  x="200" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+		
+	</item>
+
+	<item id="eng" image="data/images/english_1.png" imageHover="data/images/english_2.png"  x="230" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+		
+	</item>
+	
+	<item id="about_ru" image="data/images/about_1.png" imageHover="data/images/about_2.png"  x="327" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>
+
+	<item id="publ_ru" image="data/images/publish_1.png" imageHover="data/images/publish_2.png"   x="484" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>
+
+	<item id="gal_ru" image="data/images/gallery_1.png" imageHover="data/images/gallery_2.png"  x="632" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>
+
+
+	<item id="video_ru" image="data/images/video_1.png" imageHover="data/images/video_2.png"   x="729" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>
+		
+	<item id="contacts_ru" image="data/images/contact_1.png" imageHover="data/images/contact_2.png"  x="811" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>	
+		
+	<item id="exit" image="data/images/ext_1.png" imageHover="data/images/ext_2.png"  x="916" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0.5" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	
+	</item>		
+		
+</data>

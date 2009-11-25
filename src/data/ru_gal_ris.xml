@@ -1,0 +1,241 @@
+<data>
+
+  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlRis" />
+  
+  <item type="image">
+  		<image url="data/images/gallery/paint/134.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<title text="Обнаженная модель. 2001. Цв. картон, кар. 32х24" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+
+  <item type="image">
+  		<image url="data/images/gallery/paint/133.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Протрет мальчика. 1993. Тонир. картон, черн. кар., уголь, мел 26х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/paint/135.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Иоанна. 1993. Тонир. картон, черн. кар., уголь, мел 30х28" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/132.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Гатамелата. 1992. Бумага, картон 23х23 (по методу Чистякова П.П.)" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/130.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Петергоф. Дворец Марли. 1991. Бумага, картон 32,5х20,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/131.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Бастион Петро-Павловской крепости. 1991. Бумага, картон 30х26,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/128.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Улочка. Санкт-Петербург. 1991. Бумага, картон 32х15" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/197.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Аллея Летнего сада. Серия «Санкт-Петербург». 1991. Б., кар. 24,5х19,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/198.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Мостик у Никольской улицы. Серия «Санкт-Петербург». 1991. Б., кар. 28,5х15,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/193.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дворец у Летнего сада. Серия «Санкт-Петербург». 1991. Б., карт. 15,5х31" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/192.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Набережная Фонтанки у Летнего сада. Серия «Санкт-Петербург». 1991. Б., кар. 29,5х15,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/186.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Лестница на Святой горке. Серия «Псково-Печерский монастырь». 1993. Б., кар. 31,5х15,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/129.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Башни и трубы. Осень в Псковско-Печерском монастыре. 1993. Бумага, картон 29,5х20,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/185.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Надвратная часовня. Серия «Псково-Печерский монастырь». 1993. Б., 28х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/183.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Мостик. Серия «Псково-Печерский монастырь». 1993. Б., кар. 29Х19,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/181.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Монастырское утро. Серия «Псково- Печерский монастырь». 1993. Б., кар. 28,5х19,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/180.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Старые деревья. Серия «Псково-Печерский монастырь». 1993. Б., кар. 27х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/188.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Крыши. Серия «Псково-Печерский монастырь». 1993. Б., карт. 28х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/177.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Церковь св. Клемента. Серия «Псков». 1994. Б., кар. 21,5х22,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/175.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Звонница. Серия «Псков». 1994. Б., кар. 17х25,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/174.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Меньшиковские палаты. Серия «Псков». 1994. Б., кар. 20Х28,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/173.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Старая ива. Бендеры. 1990. Б., кар. 24х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  <item type="image">
+  		<image url="data/images/gallery/paint/171.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дворик в Бендерах. 1990. Б., кар. 27,5х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+
+   
+</data>

@@ -1,0 +1,326 @@
+<data>
+
+  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlCompo" />
+  
+  <item type="image">
+  		<image url="data/images/gallery/compo/013.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<title text="Магический полет. 2005. Б, акв. 46х68" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/compo/009.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Вниз по кроличьей норе. Из серии «Алиса в Стране Чудес». 2004. Б, акв. 38х28" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/008.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Алиса и Чеширский кот. Из серии «Алиса в Стране Чудес». 2004. Б, акв. 38х28" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/007.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Королевский крокет. Из серии «Алиса в Стране Чудес». 2004. Б, акв. 38х28" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/006.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Алиса и Синяя Гусеница. Из серии «Алиса в Стране Чудес». 2004. Б, акв. 38х28" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/096.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Erste Vigilie (Вилигия первая). Змейка. Из серии «Золотой горшок». 2002. Б, акв. 42х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/099.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Zveite Vigilie (Вилигия вторая). Ансельм и фейерверк. Из серии «Золотой горшок». 2002. Б, акв. 42х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/098.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Vierte Vigilie (Вилигия четвертая). Ансельм и зеркало Линдгорста. Из серии «Золотой горшок». 2002. Б, акв. 42х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/095.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Gechste Vigilie (Вилигия шестая). Золотой горшок. Из серии «Золотой горшок». 2002. Б, акв. 42х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/096.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Zwolfte Vigilie (Вилигия двенадцатая). Поэт Ансельм и Серпентина. Из серии «Золотой горшок». 2002. Б, акв. 42х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/01000.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Триптих «Мое сердце подобно чаше». 2001. Б, акв. 25,5х(32,5х50х31)" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/093.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Gilbernes Zieht (Серебряный свет). 2001. Б, акв. 21х42" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/015.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Лотос. 2001. Б, акв. 40х40,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/014.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Северная элегия. 2004. Б, акв. 42х30" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/016.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Свеча горела... 2007. Б, акв. 30х68,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/01001.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Анна и Кандинский. 2004. Б, акв. 22,5х28" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/001.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Философский камень (Lapis Philosophorum) . 2003. Б, акв. 34,5х26" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/compo/002.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Серебряный ноктюрн. 2003. Б, акв. 36х20" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+      <item type="image">
+  		<image url="data/images/gallery/compo/011.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Призраки Пале-Руаяль. Из серии «Мой Париж». 2007. Б, акв. 47х36" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item>
+  
+      <item type="image">
+  		<image url="data/images/gallery/compo/010.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Призраки Нотр-Дам де Пари. Из серии «Мой Париж». 2007. Б, акв. 48х33" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/compo/01002.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Версальский ноктюрн. 2007. Б, акв. 24х19,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/compo/044.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Сонет Шамборского замка. Анна. 2006. Б, акв. 30х12,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item> 
+
+         <item type="image">
+  		<image url="data/images/gallery/compo/043.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Руанский сонет. Лана. 2006. Б, акв. 30х12,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item>
+  
+        <item type="image">
+  		<image url="data/images/gallery/compo/012.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Призрак ангела. Польская Глория. 2005. Б, акв. 69х36" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  		</item> 
+
+       <item type="image">
+  		<image url="data/images/gallery/compo/01003.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Канцона. Диптрих. 1999. Б, акв. 21х13х13" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	 	</item>   	
+
+  
+        <item type="image">
+  		<image url="data/images/gallery/compo/01004.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Рыцарь Гондо. 2005. Б, акв. d.15" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	 	</item> 
+ 
+        <item type="image">
+  		<image url="data/images/gallery/compo/01005.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Spiritus flat ubi vult (Дух веет, где хочет). Автопортрет. 2004. Б, акв. 24,5х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 	  	
+  
+          <item type="image">
+  		<image url="data/images/gallery/compo/01006.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Лондонская элегия. 2008. Б, акв. 43,5х32" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+ 
+          <item type="image">
+  		<image url="data/images/gallery/compo/01007.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text=" " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 	  	
+    
+</data>

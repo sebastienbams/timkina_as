@@ -1,0 +1,37 @@
+<data>
+
+  <nastr x="0" y="1" height="100" width="1024" />
+  
+<item type="image">
+  	<image url="data/images/tatyana_r.jpg" y="10" x="400"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+  
+  <item type="image">
+  	<image url="data/images/topline.png" y="67" x="-1044"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+  	<tweenOut delay="0"  duration="0.5">
+  		<effect value="1044" paramert="x" />
+  	</tweenOut>
+  	<tweenIn delay="0" duration="0.5" >
+  		<effect value="0" paramert="x" />
+  	</tweenIn>
+  </item>
+
+<item type="image">
+  	<image url="data/images/tt.png" y="15" x="10"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+  
+  <item type="menu" url="data/menu1_en.xml" id="menu1" />
+
+</data>

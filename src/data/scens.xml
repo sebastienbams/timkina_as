@@ -1,0 +1,36 @@
+<data>
+
+  <nastr x="0" y="0" height="768" width="1024" showMenu="1"/>
+  
+  <item id="intro" autoLoad="1" autoShow="1" url="data/intro.xml" />
+  
+  <item id="mainmenu_ru" autoLoad="0" autoShow="0" url="data/mainmenu.xml" onTop="1" />
+  <item id="mainmenu_en" autoLoad="0" autoShow="0" url="data/mainmenu_en.xml" onTop="1" />
+  
+  <item id="intro_ru" autoLoad="0" autoShow="0" url="data/intro_ru.xml" />
+  <item id="intro_en" autoLoad="0" autoShow="0" url="data/intro_en.xml" />
+  
+  <item id="gal_ru" autoLoad="0" autoShow="0" url="data/gal_ru.xml" />
+  <item id="gal_en" autoLoad="0" autoShow="0" url="data/gal_en.xml" />
+  
+  <item id="gal_pw_ru" autoLoad="0" autoShow="0" url="data/gal_pw_ru.xml" />
+  <item id="gal_pw_en" autoLoad="0" autoShow="0" url="data/gal_pw_en.xml" />
+  
+  <item id="gal_portets_ru" autoLoad="0" autoShow="0" url="data/ru_gal_portets_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_natur_ru" autoLoad="0" autoShow="0" url="data/ru_gal_natur_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_pez_ru" autoLoad="0" autoShow="0" url="data/ru_gal_pez_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_compo_ru" autoLoad="0" autoShow="0" url="data/ru_gal_compo_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_ris_ru" autoLoad="0" autoShow="0" url="data/ru_gal_ris_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_book_ru" autoLoad="0" autoShow="0" url="data/ru_gal_book_s.xml" onTop="1" resizeChilds="1" />
+  
+  <item id="gal_portets_en" autoLoad="0" autoShow="0" url="data/en_gal_portets_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_natur_en" autoLoad="0" autoShow="0" url="data/en_gal_natur_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_pez_en" autoLoad="0" autoShow="0" url="data/en_gal_pez_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_compo_en" autoLoad="0" autoShow="0" url="data/en_gal_compo_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_ris_en" autoLoad="0" autoShow="0" url="data/en_gal_ris_s.xml" onTop="1" resizeChilds="1" />
+  <item id="gal_book_en" autoLoad="0" autoShow="0" url="data/en_gal_book_s.xml" onTop="1" resizeChilds="1" />
+      
+  <item id="about_ru" autoLoad="0" autoShow="0" url="data/about_ru.xml" onTop="1" />
+  <item id="about_en" autoLoad="0" autoShow="0" url="data/about_en.xml" onTop="1" />  
+
+</data>

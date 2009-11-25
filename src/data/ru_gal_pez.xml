@@ -1,0 +1,415 @@
+<data>
+
+  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlPez" />
+  
+  <item type="image">
+  		<image url="data/images/gallery/landscape/119.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<title text="Утро. Замковый остров. Из серии «Старый Выборг». 1998. Б, акв. 30х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/landscape/164.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Двор рыцарского замка. Из серии «Старый Выборг». 1998. Б, акв. 31х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+    <item type="image">
+  		<image url="data/images/gallery/landscape/165.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Статуи — аллегории Выборга. Из серии «Старый Выборг». 1998. Б, акв. 31х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/160.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Ратуша. Из серии «Старый Выборг». 1998. Б, акв. 33х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/162.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Шведский замок. Из серии «Старый Выборг». 1998. Б, акв. 33х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/163.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Часовая башня. Из серии «Старый Выборг». 1998. Б, акв. 30х17" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/118.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Капелла Людвигштайн. Монрепо. Из серии «Старый Выборг». 1998. Б, акв. 31х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/161.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Башня ратуши. Из серии «Старый Выборг». 1998. Б, акв. 31х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/120.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дом Ульберга. Из серии «Старый Выборг». 1998. Б, акв. 30х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/116.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дом Бутенгроффа. Из серии «Старый Выборг». 1998. Б, акв. 27х17" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/167.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Оборонительные стены замка. Из серии «Старый Выборг». 1998. Б, акв. 31х18" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/091.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Кунсткамера. Дворик Академии Наук. Из серии «Санкт-Петербург». 1994. Б, акв. 32х15" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/090.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Внутренний дворик Семинарского корпуса. Из серии «Санк-Петербург». 1994. Б, акв. 29х28" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/168.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Ветреный день. Из серии «Александра-Невская». 1994. Б, акв. 28х27" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/089.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Белые ночи. Благовещенская церковь. Из серии «Александра-Невская». 1994. Б, акв. 28х22" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+    <item type="image">
+  		<image url="data/images/gallery/landscape/088.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Кельи Смольного монастыря. Из серии «Санк-Петербург». 1994. Б, акв. 25х30" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/152.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Солнце над Кара-Дагом. Коктебель. Из серии «Киммерийские акварели». 1999. Б, акв. 10х34" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/063.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Коктебель. Закат. Из серии «Киммерийские акварели». 1999. Б, акв. 19х33" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/066.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Крым. Консульский замок. Из серии «Киммерийские акварели». 1999. Б, акв. 34х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/158.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Мечеть. Старый Крым. Из серии «Киммерийские акварели». 1999. Б, акв. 35х19" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/155.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Монастырь Субр-Хач. Старый Крым. Из серии «Киммерийские акварели». 1999. Б, акв. 31х20" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/154.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Коктебель Гора Сюрю-Кая. Из серии «Киммерийские акварели». 1999. Б, акв. 20х34" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/064.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Крым. Бахчисарайский дворец. Из серии «Киммерийские акварели». 1999. Б, акв. 21х33" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/127.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Молельные дома караимов в Чуфут-Кале. Из серии «Киммерийские акварели». 1999. Б, акв. 21х31" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/108.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Дожди. Коктебель. Из серии «Киммерийские акварели». 1999. Б, акв. 7,5х29,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/104.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Полдень. Европейская. Из серии «Старая Вятка». 1997. Б, акв. 16,5х22" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/landscape/105.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Вечер на Спасской. Из серии «Старая Вятка». 1996. Б, акв. 13,5х21,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+
+ 
+   <item type="image">
+  		<image url="data/images/gallery/landscape/146.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Варшава. Костел Св. Мартина. 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+   
+      <item type="image">
+  		<image url="data/images/gallery/landscape/150.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Варшава. Костел Св. Иоанна. 2001. Б, акв. 29,5х23" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/149.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Тынский собор. Из серии «Осень в Праге». 2004. Б, акв. 38х24" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+   <item type="image">
+  		<image url="data/images/gallery/landscape/146.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Старые улочки. из Серии «Осень в праге». 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/landscape/145.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Карлов мост. Из серии «Осень в Праге». 2004. Б, акв. 38х24" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/147.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Собор святого Вита. Из серии «Осень в Праге». 2004. Б, акв. 38х27" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/100.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Карлштейн. Осень I. 2004. Б, акв. 29х21" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/101.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Карлштейн. Осень II. 2004. Б, акв. 29х21" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/143.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Франкфурт-на-Одере. 2005. Б, акв. 28,5х26,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/142.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Лагув. Униатский замок. 2005. Б, акв. 36,5х26" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+   
+</data>

@@ -1,0 +1,59 @@
+<data>
+
+	<nastr x="0" y="89" height="600" width="1024" />
+	
+	<item id="natute_ru" image="data/images/natute_1.jpg" imageHover="data/images/natute_2.jpg"  x="20" y="100" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+
+	<item id="portrait_ru" image="data/images/portrait_1.jpg" imageHover="data/images/portrait_2.jpg"  x="20" y="150" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+	<item id="compo_ru" image="data/images/compo_1.jpg" imageHover="data/images/compo_2.jpg"   x="20" y="250" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+	<item id="landscape_ru" image="data/images/landscape_1.jpg" imageHover="data/images/landscape_2.jpg"  x="20" y="200" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+
+	<item id="book_ru" image="data/images/book_1.jpg" imageHover="data/images/book_2.jpg"   x="20" y="350" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+	<item id="ris_ru" image="data/images/ris_1.jpg" imageHover="data/images/ris_2.jpg"   x="20" y="300" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+			
+</data>

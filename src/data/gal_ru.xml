@@ -1,0 +1,31 @@
+<data>
+
+  <nastr x="0" y="0" height="768" width="1024" />
+  
+<item type="image">
+  	<image url="data/images/left.jpg" y="90" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+
+
+<item type="image">
+  	<image url="data/images/bottom.jpg" y="740" x="1024"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="0" paramert="x"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+
+  <item type="menu" url="data/gal_menu_ru.xml" id="gal_menu_ru" />
+  
+  
+  
+</data>
+

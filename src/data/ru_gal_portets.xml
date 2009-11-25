@@ -1,0 +1,193 @@
+<data>
+
+  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlPortrets" />
+  
+  <item type="image">
+  		<image url="data/images/gallery/portrait/035.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<title text="Ветер странствий (портрет П.С. Вершигорова). 1998. Б, акв. 17х17" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/portrait/032.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Музыкант. Из серии «Эхо прошедшего времени». 1999. Б, акв. 21х17" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/031.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Сон в летнюю ночь. Из серии «Эхо прошедшего времени». 1999. Б, акв. 21х18" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/030.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Печальная звезда. Из серии «Эхо прошедшего времени». 1997. Б, акв. 19х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/029.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Orgelmeister. Из серии «Эхо прошедшего времени». 1997. Б, акв. 18х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/028.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Венецианский карнавал. Из серии «Эхо прошедшего времени». 1997. Б, акв. 20х15" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/026.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Solus Rex (Одинокий король). Из серии «Эхо прошедшего времени». 1997. Б, акв. 18х16" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/025.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Воспоминание о Хайдельберге. Из серии «Эхо прошедшего времени». 1998. Б, акв. 19х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/034.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Век призрачных маркиз. Из серии «Эхо прошедшего времени». 1997. Б, акв. 18х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/086.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Вечер в Вероне. Из серии «Эхо прошедшего времени». 1998. Б, акв. 18х17" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/084.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Stranger. Из серии «Эхо прошедшего времени». 1999. Б, акв. 21х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/085.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Wanderer (Странник). Из серии «Эхо прошедшего времени». 1998. Б, акв. 20х12" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/036.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Поэт Александра. 2002. Б, акв. 28х19" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/042.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Sonett fur Alexander (Сонет для Александра) . 2004. Б, акв. 23х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/083.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Polina. Диприх «Иллюзия Шекспира». 2005. Б, акв. 17х14" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>  
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/082.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Arsenij. Диприх «Иллюзия Шекспира». 2006. Б, акв. 17х15" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/077.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Моя бабушка. 1996. Б, акв. 11х10" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+</data>

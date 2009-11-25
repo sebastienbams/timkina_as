@@ -1,0 +1,29 @@
+<data>
+
+	<nastr x="20" y="100" height="400" width="400" />
+	
+	<item id="rus" image="data/images/russian_1.png" imageHover="data/images/russian_2.png"  x="8" y="0" alpha="0" disable="false" >
+		
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	
+	</item>
+	
+	<item id="eng" image="data/images/english_3.png" imageHover="data/images/english_4.png"  x="0" y="50" alpha="0" disable="false" >
+	
+	  	<tweenIn delay="0" duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	  	<tweenOut delay="0" duration="0.5"  >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut> 
+	
+	</item>
+
+
+
+</data>

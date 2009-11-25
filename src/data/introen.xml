@@ -1,0 +1,38 @@
+<data>
+
+  <nastr x="0" y="0" height="768" width="1024" />
+  
+  
+  <item type="image">
+  
+  	<image url="data/images/right.jpg"  y="0" x="789" alpha="0" visible="true" autoShowHide="0" noScale="0"/>
+
+  	<tweenOut delay="1"  duration="0.5"  >
+  		<effect value="0" paramert="alpha" />
+  	</tweenOut>
+
+  	<tweenIn delay="1" duration="0.5" >
+  		<effect value="1" paramert="alpha" />
+  	</tweenIn>
+
+  </item>
+  
+  <item type="image">
+  
+  	<image url="data/images/top.jpg" y="100" x="1044"  alpha="1" visible="true" autoShowHide="0" noScale="0"/>
+
+  	<tweenOut delay="0"  duration="0.5">
+  		<effect value="1044" paramert="x" />
+  	</tweenOut>
+
+  	<tweenIn delay="1.5" duration="0.5" >
+  		<effect value="2" paramert="x" />
+  	</tweenIn>
+  
+  </item>
+
+  <item type="menu" url="data/menulang.xml" id="menuLangen" />
+  
+  <item type="menu" url="data/mainmenuen.xml" id="mainmenuen" /> 
+  
+</data>

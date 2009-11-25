@@ -1,0 +1,108 @@
+<data>
+
+  <nastr x="0" y="0" height="768" width="1024" />
+  
+  <item type="image">
+  		<image url="data/images/bkg_2.jpg" y="88" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+<item type="image">
+  		<image url="data/images/tatyana_r.jpg" y="10" x="400"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+<item type="image">
+  	<image url="data/images/fragment.jpg" y="798" x="491"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  
+  	<tweenIn delay="0.5" duration="1" >
+  		<effect value="88" paramert="y" />
+  	</tweenIn>
+  </item>
+ 
+  <item type="image">
+  	<image url="data/images/top.png" y="67" x="-1044"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  	
+  	<tweenIn delay="1" duration="0.5" >
+  		<effect value="0" paramert="x" />
+  	</tweenIn>
+  </item>
+ 
+ 
+   <item type="image">
+  	<image url="data/images/line.jpg" y="670" x="1044"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  	
+  	<tweenIn delay="1" duration="0.5" >
+  		<effect value="0" paramert="x" />
+  	</tweenIn>
+  </item> 
+ 
+ <item type="image">
+  	<image url="data/images/tatyana_l.jpg" y="675" x="10"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="1.5"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+  
+ <item type="image">
+  	<image url="data/images/water_l.jpg" y="720" x="10"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="1.5"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+
+ <item type="image">
+  	<image url="data/images/water_r.jpg" y="61" x="850"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="1.5"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+
+   <item type="image">
+  	<image url="data/images/anno.png" y="120" x="750"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<tweenIn delay="1.5"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+	
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+  </item>
+  
+
+   
+  <item type="menu" url="data/menulang.xml" id="menuLang" />
+  
+</data>

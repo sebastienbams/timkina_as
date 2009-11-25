@@ -1,0 +1,29 @@
+<data>
+
+	<nastr x="650" y="590" height="97" width="1024" />
+	
+
+	<item id="prevImage" image="data/images/back_1.png" imageHover="data/images/back_2.png"  x="0" y="0" alpha="1" disable="true" >
+		
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+		
+	</item>
+	
+
+	<item id="nextImage" image="data/images/fwd_1.png" imageHover="data/images/fwd_2.png"  x="50" y="0" alpha="0" >
+		
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+		
+	</item>
+		
+</data>
