@@ -27,6 +27,10 @@ package viewsection
 		
 		public static var SELECT:String="SELECT";
 		
+		public static var SCROLL_UP:String="SCROLL_UP";
+		
+		public static var SCROLL_DOWN:String="SCROLL_DOWN";
+		
 
 	}
 }

@@ -1,11 +1,12 @@
 package viewsection.text
 {
 	import com.gskinner.motion.*;
-	
+	import viewsection.MyEvent;
 	import flash.geom.Rectangle;
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.events.Event;
+	import flash.events.MouseEvent
 	import flash.net.*;
 	import flash.text.*;
 	
@@ -16,7 +17,6 @@ package viewsection.text
 		public function TextController( arg1: XML )
 		{
 			super();
-        
         
             loader = new flash.net.URLLoader( new flash.net.URLRequest( arg1.@url ) );
             
@@ -41,8 +41,25 @@ package viewsection.text
             alpha = 1;
             visible = true;
             
+            Control.getInstance().addEventListener(MyEvent.SCROLL_UP, mouseUpScroll);
+            Control.getInstance().addEventListener(MyEvent.SCROLL_DOWN, mouseDownScroll);
+            
 		}
 
+		public function mouseDownScroll(event:MouseEvent):void
+		{
+			if ( visible ){
+				textBlock.scrollV++;	
+			}
+		}
+		
+		public function mouseUpScroll(event:MouseEvent):void
+		{
+			if ( visible ){
+				textBlock.scrollV--;
+			}
+		}
+		
         public function preload(arg1:flash.events.Event):void
         {
             progress = loader.bytesLoaded / (loader.bytesTotal == 0 ? 1 : loader.bytesTotal);
@@ -67,18 +84,18 @@ package viewsection.text
 		public function setText( HTMLText: String ):void
 		{
 			
-			scrollRect = new Rectangle(0, 0, w, h );
+			scrollRect = new Rectangle(0, 0, w, h);
 			
 			textBlock.embedFonts = true;
-			textBlock.antiAliasType = AntiAliasType.ADVANCED;
+			//textBlock.antiAliasType = AntiAliasType.ADVANCED;
 			textBlock.gridFitType = GridFitType.NONE;
-			textBlock.autoSize = TextFieldAutoSize.LEFT;
+			//textBlock.autoSize = TextFieldAutoSize.LEFT;
 			
 			 style = new StyleSheet(); 
 			  
 			 var styleObj:Object = new Object(); 
 			 styleObj.fontSize = "16"; 
-			 styleObj.color = "#FFFFFF";
+			 styleObj.color = "#AAAAAA";
 			 styleObj.fontFamily = Control.getInstance().getMyFont().fontName;
 			 style.setStyle("p", styleObj);
 			 

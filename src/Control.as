@@ -46,7 +46,7 @@ package
         private function init():void
         {
             
-            graphics.beginBitmapFill(new BkgImage().bitmapData);
+            //graphics.beginBitmapFill(new BkgImage().bitmapData);
 			graphics.drawRect(0, 0, 1920, 1200);            
             
             loader = new flash.net.URLLoader(new flash.net.URLRequest("data/scens.xml"));
