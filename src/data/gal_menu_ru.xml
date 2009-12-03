@@ -38,15 +38,6 @@
 		</tweenOut>
 	</item>
 
-	<item id="ris_ru" image="data/images/ris_1.jpg" imageHover="data/images/ris_2.jpg"   x="20" y="300" alpha="0" >
-	  	<tweenIn delay="0" duration="0.5">
-	  		<effect value="1" paramert="alpha"/>
-	  	</tweenIn>
-		<tweenOut delay="0" duration="0.5">
-			<effect value="0" paramert="alpha"/>
-		</tweenOut>
-	</item>
-
 	<item id="book_ru" image="data/images/book_1.jpg" imageHover="data/images/book_2.jpg"   x="20" y="350" alpha="0" >
 	  	<tweenIn delay="0" duration="0.5">
 	  		<effect value="1" paramert="alpha"/>
@@ -55,5 +46,14 @@
 			<effect value="0" paramert="alpha"/>
 		</tweenOut>
 	</item>
-				
+	
+	<item id="ris_ru" image="data/images/ris_1.jpg" imageHover="data/images/ris_2.jpg"   x="20" y="300" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+			
 </data>

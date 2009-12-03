@@ -33,4 +33,8 @@
   <item id="about_ru" autoLoad="0" autoShow="0" url="data/about_ru.xml" onTop="1" />
   <item id="about_en" autoLoad="0" autoShow="0" url="data/about_en.xml" onTop="1" />  
 
+  <item id="publics_ru" autoLoad="0" autoShow="0" url="data/publics_ru.xml" onTop="1" />
+  <item id="publics_en" autoLoad="0" autoShow="0" url="data/publics_en.xml" onTop="1" />  
+
+
 </data>

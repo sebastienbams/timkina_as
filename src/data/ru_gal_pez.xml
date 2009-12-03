@@ -301,9 +301,10 @@
 
 
  
-   <item type="image">
-  		<image url="data/images/gallery/landscape/146.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="Варшава. Костел Св. Мартина. 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
+
+      <item type="image">
+  		<image url="data/images/gallery/landscape/150.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Варшава. Костел Св. Иоанна. 2001. Б, акв. 29,5х23" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
 	  	</tweenOut>
@@ -311,10 +312,10 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
-   
+
       <item type="image">
-  		<image url="data/images/gallery/landscape/150.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="Варшава. Костел Св. Иоанна. 2001. Б, акв. 29,5х23" color="#FFFFFF" size="10" font="Arial" />
+  		<image url="data/images/gallery/landscape/151.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Варшава. Костел Св. Мартина. 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
 	  	</tweenOut>
@@ -336,7 +337,7 @@
 
    <item type="image">
   		<image url="data/images/gallery/landscape/146.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="Старые улочки. из Серии «Осень в праге». 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
+	  	<title text="Старые улочки. из Серии «Осень в Праге». 2001. Б, акв. 30,5х16,5" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
 	  	</tweenOut>
@@ -344,6 +345,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+
 
   <item type="image">
   		<image url="data/images/gallery/landscape/145.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
@@ -366,6 +368,9 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+
+
+
 
       <item type="image">
   		<image url="data/images/gallery/landscape/100.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
