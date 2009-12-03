@@ -145,7 +145,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
-  
+
     <item type="image">
   		<image url="data/images/gallery/portrait/042.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Sonett fur Alexander (Сонет для Александра) . 2004. Б, акв. 23х22" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
@@ -156,6 +156,29 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
+    <item type="image">
+  		<image url="data/images/gallery/portrait/scan1.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Анна-Элизабет. 2008. Б., акв. 30,8х16,8" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+    
+    <item type="image">
+  		<image url="data/images/gallery/portrait/scan2.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Марина. 2008. Б., акв." x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
   
     <item type="image">
   		<image url="data/images/gallery/portrait/083.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
