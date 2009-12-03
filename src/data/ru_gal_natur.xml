@@ -46,6 +46,17 @@
 	  	</tweenIn>
   </item>
 
+   <item type="image">
+  		<image url="data/images/gallery/nature/8799.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Натюрморт с французской чернильницей. 2008. Б, акв. 28х43" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+        
       <item type="image">
   		<image url="data/images/gallery/nature/92.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Натюрморт с Андреевской лентой. 1992. Б, акв. 59х69 Музей Академии художеств (Санкт-Петербург)" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
@@ -268,7 +279,7 @@
 	  	</tweenIn>
   </item>     
   
-                <item type="image">
+   <item type="image">
   		<image url="data/images/gallery/nature/039.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Бабушкина икона. 2007. Б, акв. 32х27" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
@@ -279,4 +290,16 @@
 	  	</tweenIn>
   </item>
   
+   <item type="image">
+  		<image url="data/images/gallery/nature/beloe.gif" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Триптих «Белое». 2009. Б, акв. 30х19/30х35/30х19" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+
     </data>

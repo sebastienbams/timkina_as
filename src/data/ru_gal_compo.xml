@@ -1,6 +1,6 @@
 <data>
 
-  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlCompo" />
+  <nastr x="0" y="1" height="590" width="700" controlMenu="slideControlCompo" />
   
   <item type="image">
   		<image url="data/images/gallery/compo/013.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
@@ -234,6 +234,18 @@
 	  	</tweenIn>
   		</item>
   
+        
+         <item type="image">
+  		<image url="data/images/gallery/compo/01007.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text=" " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 	
+ 		        
         <item type="image">
   		<image url="data/images/gallery/compo/044.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Сонет Шамборского замка. Анна. 2006. Б, акв. 30х12,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
@@ -313,6 +325,39 @@
  		</item> 
 
 
+        <item type="image">
+  		<image url="data/images/gallery/compo/8794.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Портрет с книгой. Из серии «Тайные стихи». 2008. Б, акв. 44х31,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
+        <item type="image">
+  		<image url="data/images/gallery/compo/005.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Призрачное утро. 2008. Б, акв. 44х31,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
+        <item type="image">
+  		<image url="data/images/gallery/compo/10006.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Магический свет. 2009. Б, акв. 34х20" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
           <item type="image">
   		<image url="data/images/gallery/compo/15х20.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="В зазеркалье. 2009. Б, акв. 41,5х4,5" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
@@ -323,6 +368,8 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
  		</item> 
+
+
 
           <item type="image">
   		<image url="data/images/gallery/compo/duet.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
@@ -335,17 +382,42 @@
 	  	</tweenIn>
  		</item> 
   
-    
-         <item type="image">
-  		<image url="data/images/gallery/compo/01007.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text=" " x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+
+        <item type="image">
+  		<image url="data/images/gallery/compo/10002.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Флит стрит. Из серии «Лондон». 2009. Б, акв. 30х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
 	  	</tweenOut>
 	  	<tweenIn delay="0"  duration="0.5" >
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
- 		</item> 	  	
+ 		</item> 
+
+        <item type="image">
+  		<image url="data/images/gallery/compo/10004.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Биг Бэн. Из серии «Лондон». 2009. Б, акв. 30х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
+        <item type="image">
+  		<image url="data/images/gallery/compo/10005.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Кенсингтонский дворец. Из серии «Лондон». 2009. Б, акв. 30х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		</item> 
+
+    
+  	
 
 	  	
     
