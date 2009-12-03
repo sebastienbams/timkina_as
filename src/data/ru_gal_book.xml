@@ -354,38 +354,6 @@
 	  	</tweenIn>
   </item>  
 
-  <item type="image">
-  		<image url="data/images/gallery/book/249.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
-	  	<tweenOut delay="0" duration="0.5" >
-	  		<effect value="0" paramert="alpha"/>
-	  	</tweenOut>
-	  	<tweenIn delay="0"  duration="0.5" >
-	  		<effect value="1" paramert="alpha"/>
-	  	</tweenIn>
-  </item>
-
-  <item type="image">
-  		<image url="data/images/gallery/book/248.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
-	  	<tweenOut delay="0" duration="0.5" >
-	  		<effect value="0" paramert="alpha"/>
-	  	</tweenOut>
-	  	<tweenIn delay="0"  duration="0.5" >
-	  		<effect value="1" paramert="alpha"/>
-	  	</tweenIn>
-  </item>
-
-  <item type="image">
-  		<image url="data/images/gallery/book/247.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
-	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
-	  	<tweenOut delay="0" duration="0.5" >
-	  		<effect value="0" paramert="alpha"/>
-	  	</tweenOut>
-	  	<tweenIn delay="0"  duration="0.5" >
-	  		<effect value="1" paramert="alpha"/>
-	  	</tweenIn>
-  </item>
 
   <item type="image">
   		<image url="data/images/gallery/book/214.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
@@ -463,6 +431,51 @@
 	  	</tweenIn>
   </item>
 
+
+  <item type="image">
+  		<image url="data/images/gallery/book/nick-olufsen.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+<item type="image">
+  		<image url="data/images/gallery/book/249.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/book/248.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
+  <item type="image">
+  		<image url="data/images/gallery/book/247.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+  </item>
+
   <item type="image">
   		<image url="data/images/gallery/book/207.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
@@ -503,6 +516,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/book/203.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="" color="#FFFFFF" size="10" font="Arial" />
@@ -514,4 +528,7 @@
 	  	</tweenIn>
   </item>
    
+
+
+
 </data>
