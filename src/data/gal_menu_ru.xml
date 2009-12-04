@@ -20,7 +20,7 @@
 		</tweenOut>
 	</item>
 	
-	<item id="compo_ru" image="data/images/compo_1.png" imageHover="data/images/compo_2.png"   x="20" y="250" alpha="0" >
+	<item id="compo_ru" image="data/images/compo_1.png" imageHover="data/images/compo_2.png"   x="20" y="200" alpha="0" >
 	  	<tweenIn delay="0" duration="0.5">
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
@@ -29,7 +29,7 @@
 		</tweenOut>
 	</item>
 	
-	<item id="landscape_ru" image="data/images/landscape_1.png" imageHover="data/images/landscape_2.png"  x="20" y="200" alpha="0" >
+	<item id="landscape_ru" image="data/images/landscape_1.png" imageHover="data/images/landscape_2.png"  x="20" y="250" alpha="0" >
 	  	<tweenIn delay="0" duration="0.5">
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>

@@ -384,6 +384,18 @@
   
 
         <item type="image">
+  		<image url="data/images/gallery/portrait/scan2.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+	  	<title text="Марина. 2008. Б., акв." x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+	  	<tweenOut delay="0" duration="0.5" >
+	  		<effect value="0" paramert="alpha"/>
+	  	</tweenOut>
+	  	<tweenIn delay="0"  duration="0.5" >
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+ 		 </item>
+    
+    
+        <item type="image">
   		<image url="data/images/gallery/compo/10002.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Флит стрит. Из серии «Лондон». 2009. Б, акв. 30х31" x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
@@ -416,7 +428,7 @@
 	  	</tweenIn>
  		</item> 
 
-    
+
   	
 
 	  	
