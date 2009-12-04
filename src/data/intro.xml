@@ -24,7 +24,7 @@
   </item>
 
 <item type="image">
-  	<image url="data/images/fragment.jpg" y="798" x="491"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
+  	<image url="data/images/fragment.jpg" y="798" x="494"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
 	  	</tweenOut>
