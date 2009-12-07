@@ -1,16 +1,18 @@
 package viewsection.text
 {
 	import com.gskinner.motion.*;
-	import viewsection.MyEvent;
-	import flash.geom.Rectangle;
+	
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.events.Event;
-	import flash.events.MouseEvent
+	import flash.events.MouseEvent;
+	import flash.geom.Rectangle;
 	import flash.net.*;
 	import flash.text.*;
 	
 	import mx.effects.easing.*;
+	
+	import viewsection.MyEvent;
 
 	public class TextController extends Sprite
 	{
@@ -32,6 +34,19 @@ package viewsection.text
 			textBlock.height = Number(arg1.@height);
 			textBlock.width = Number(arg1.@width);
 			
+                    
+            upScroll = new flash.display.Sprite();
+            upScroll.addChild(new viewsection.text.UpScroll());
+            upScroll.y = 0;
+            upScroll.x = textBlock.width;
+			upScroll.alpha = 1;
+
+            downScroll = new flash.display.Sprite();
+            downScroll.addChild(new viewsection.text.DownScroll());
+            downScroll.y = textBlock.height-20;
+            downScroll.x = textBlock.width;
+			downScroll.alpha = 1;
+			
 			h = Number(arg1.@height);
 			w = Number(arg1.@width);
 			
@@ -41,22 +56,22 @@ package viewsection.text
             alpha = 1;
             visible = true;
             
-            Control.getInstance().addEventListener(MyEvent.SCROLL_UP, mouseUpScroll);
-            Control.getInstance().addEventListener(MyEvent.SCROLL_DOWN, mouseDownScroll);
+            upScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseUpScroll);
+            downScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseDownScroll);
             
 		}
 
 		public function mouseDownScroll(event:MouseEvent):void
 		{
 			if ( visible ){
-				textBlock.scrollV++;	
+				textBlock.scrollV += 10;	
 			}
 		}
 		
 		public function mouseUpScroll(event:MouseEvent):void
 		{
 			if ( visible ){
-				textBlock.scrollV--;
+				textBlock.scrollV += -10;
 			}
 		}
 		
@@ -84,7 +99,7 @@ package viewsection.text
 		public function setText( HTMLText: String ):void
 		{
 			
-			scrollRect = new Rectangle(0, 0, w, h);
+			scrollRect = new Rectangle(0, 0, w+50, h);
 			
 			textBlock.embedFonts = true;
 			//textBlock.antiAliasType = AntiAliasType.ADVANCED;
@@ -106,6 +121,9 @@ package viewsection.text
 			textBlock.alpha = 1;
 			
 			addChild( textBlock );
+			addChild(downScroll);
+			addChild(upScroll);
+			
 		
 		}
 		
@@ -164,7 +182,13 @@ package viewsection.text
         protected var style:StyleSheet;
         
         private var h:Number = 0;
+        
         private var w:Number = 0;
+        
+        private var upScroll:flash.display.Sprite;
+        
+        private var downScroll:flash.display.Sprite;
+        
         
 	}
 	
