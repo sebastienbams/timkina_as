@@ -99,8 +99,8 @@ package viewsection.text
 		public function setText( HTMLText: String ):void
 		{
 			
-			scrollRect = new Rectangle(0, 0, w+50, h);
-			
+			//scrollRect = new Rectangle(0, 0, w+50, h);
+			//
 			textBlock.embedFonts = true;
 			//textBlock.antiAliasType = AntiAliasType.ADVANCED;
 			textBlock.gridFitType = GridFitType.NONE;
