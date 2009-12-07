@@ -113,6 +113,13 @@ package viewsection.text
 			 styleObj.color = "#AAAAAA";
 			 styleObj.fontFamily = Control.getInstance().getMyFont().fontName;
 			 style.setStyle("p", styleObj);
+
+			 var styleObj1:Object = new Object(); 
+			 styleObj1.fontSize = "25"; 
+			 styleObj1.color = "#AAAAAA";
+			 styleObj1.fontFamily = Control.getInstance().getMyFont().fontName;
+
+			 style.setStyle("h1", styleObj1);
 			 
 			textBlock.styleSheet = style;
 			
