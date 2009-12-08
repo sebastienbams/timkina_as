@@ -2,8 +2,7 @@ package viewsection.text
 {
 	import com.gskinner.motion.*;
 	
-	import flash.display.Bitmap;
-	import flash.display.Sprite;
+	import flash.display.*;
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	import flash.geom.Rectangle;
@@ -11,8 +10,6 @@ package viewsection.text
 	import flash.text.*;
 	
 	import mx.effects.easing.*;
-	
-	import viewsection.MyEvent;
 
 	public class TextController extends Sprite
 	{
@@ -43,9 +40,24 @@ package viewsection.text
 
             downScroll = new flash.display.Sprite();
             downScroll.addChild(new viewsection.text.DownScroll());
-            downScroll.y = textBlock.height-20;
+            downScroll.y = textBlock.height-downScroll.height;
             downScroll.x = textBlock.width;
 			downScroll.alpha = 1;
+			
+            begScroll = new flash.display.Sprite();
+            begScroll.addChild(new viewsection.text.ScrollBeg());
+            begScroll.y = begScroll.height;
+            begScroll.x = textBlock.width;
+			begScroll.alpha = 1;
+
+			var rect:Rectangle = new Rectangle( textBlock.width - downScroll.width, 0, downScroll.width, textBlock.height-downScroll.height*2 );
+			
+			var square:Shape = new Shape();
+			
+			square.graphics.beginBitmapFill(new ScrollBar().bitmapData);
+			square.graphics.drawRect(textBlock.width, downScroll.height, downScroll.width, textBlock.height-downScroll.height*2);
+
+			addChild(square);
 			
 			h = Number(arg1.@height);
 			w = Number(arg1.@width);
@@ -64,7 +76,10 @@ package viewsection.text
 		public function mouseDownScroll(event:MouseEvent):void
 		{
 			if ( visible ){
-				textBlock.scrollV += 10;	
+				textBlock.scrollV += 10;
+				var y:int = ((textBlock.height-downScroll.height*2)/(textBlock.maxScrollV != 0 ? textBlock.maxScrollV : 1 )) * textBlock.scrollV;
+				y = y > (textBlock.height - downScroll.height)  ? textBlock.height : y ;
+				begScroll.y = y;   	
 			}
 		}
 		
@@ -72,6 +87,9 @@ package viewsection.text
 		{
 			if ( visible ){
 				textBlock.scrollV += -10;
+				var y:int = ((textBlock.height-downScroll.height*2)/(textBlock.maxScrollV != 0 ? textBlock.maxScrollV : 1 )) * textBlock.scrollV;
+				y = y < downScroll.height  ? downScroll.height : y ;  
+				begScroll.y = y;   	
 			}
 		}
 		
@@ -130,7 +148,7 @@ package viewsection.text
 			addChild( textBlock );
 			addChild(downScroll);
 			addChild(upScroll);
-			
+			addChild(begScroll);
 		
 		}
 		
@@ -195,6 +213,9 @@ package viewsection.text
         private var upScroll:flash.display.Sprite;
         
         private var downScroll:flash.display.Sprite;
+        
+        private var begScroll:flash.display.Sprite;
+        
         
         
 	}
