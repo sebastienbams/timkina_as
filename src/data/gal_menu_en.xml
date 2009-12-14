@@ -1,0 +1,62 @@
+<data>
+
+	<nastr x="0" y="89" height="600" width="1024" />
+	
+	<item id="natute_en" image="data/images/menu_e/natute_1.png" imageHover="data/images/menu_e/natute_2.png"  x="20" y="100" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+
+	<item id="portrait_en" image="data/images/menu_e/portrait_1.png" imageHover="data/images/menu_e/portrait_2.png"  x="20" y="150" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+	<item id="compo_en" image="data/images/menu_e/compo_1.png" imageHover="data/images/menu_e/compo_2.png"   x="20" y="200" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+	<item id="landscape_en" image="data/images/menu_e/landscape_1.png" imageHover="data/images/menu_e/landscape_2.png"  x="20" y="250" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+
+
+	<item id="book_en" image="data/images/menu_e/book_1.png" imageHover="data/images/menu_e/book_2.png"   x="20" y="310" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+
+	<item id="ris_en" image="data/images/menu_e/ris_1.png" imageHover="data/images/menu_e/ris_2.png"   x="20" y="380" alpha="0" >
+	  	<tweenIn delay="0" duration="0.5">
+	  		<effect value="1" paramert="alpha"/>
+	  	</tweenIn>
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha"/>
+		</tweenOut>
+	</item>
+	
+			
+</data>

@@ -1,0 +1,521 @@
+<data>
+
+	<nastr x="0" y="1" height="590" width="700"
+		controlMenu="slideControlCompo" />
+
+	<item type="image">
+		<image url="data/images/gallery/compo/013.jpg" y="0" x="0"
+			alpha="1" visible="true" autoShowHide="0" noScale="1" />
+		<title
+			text="Magic flight/2005/ paper, watercolor/46*68"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/012.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Phantom of angel. Polish Glory/2005/ paper, watercolor/69*36"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/009.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Down the rabbit-hole/2004/ paper, watercolor/38*28. From the series «Alices adventures in wobderkand» Lewis Carroll"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/008.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Alice and cheshire cat/ paper, watercolor/38*28. From the series «Alices adventures in wobderkand» Lewis Carroll"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/007.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="The queens croquet-ground/ paper, watercolor/38*28. From the series «Alices adventures in wobderkand» Lewis Carroll"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/006.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Alice and caterpillar/ paper, watercolor/38*28. From the series «Alices adventures in wobderkand» Lewis Carroll"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01000.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Cor meum sicut calix est/2001 Triptych/ My heart like bowl / 25,5(32,5*50*31)"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/096.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Serpents. From the series «Dergoldne topf» E.T.A. Hoggmann /2002/ paper, watercolor 42*22"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/099.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Anselm and Firework. From the series «Dergoldne topf» E.T.A. Hoggmann /2002/ paper, watercolor 42*22"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/098.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Anselm and Lindgorst looking glass. From the series «Dergoldne topf» E.T.A. Hoggmann /2002/ paper, watercolor 42*22"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/095.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Gold pot. From the series «Dergoldne topf» E.T.A. Hoggmann /2002/ paper, watercolor 42*22"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/096.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Poet Anselm and Serpentina. From the series «Dergoldne topf» E.T.A. Hoggmann /2002/ paper, watercolor 42*22"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/093.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Silver light/ paper, watercolor /2001/ paper, watercolor 21*42"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/014.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Northern elegy /2004/ paper, watercolor 42*30"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/001.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Lapis Philosophorum/Philisophers stone/2003/ paper, watercolor/36*29"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/002.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Silver Nocturne /2003/ 36*29" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/011.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Ghostes of palace royal/2007/ paper, watercolor/47*36" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/010.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Ghostes of Notre-Dame de Paris/ paper, watercolor/48*33" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01002.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Versailles Pastorale/2007/paper, watercolor 24*19,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/044.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Shamdors castle sonnet, Anne/2006/paper, watercolor 30*12,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/043.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Rouens sonnet Lana/2006/paper, watercolor 30*12,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01004.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Knight W.K /tondy/ paper, watercolor d.15" x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01005.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Spiritus flat ubi vult (Дух веет, где хочет). Автопортрет. 2004. Б, акв. 24,5х14"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01006.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Старинная музыка. 2008. Б, акв. 60х42,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/10002.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Fleet street. From the series Shadowy London /2009/ paper, watercolor/31*30"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/10004.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Big Ben. From the series Shadowy London /2009/ paper, watercolor/31*30"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/10005.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Kensington palace. From the series Shadowy London /2009/ paper, watercolor/31*30"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/15x20.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="В зазеркалье. 2009. Б, акв. 41,5х4,5" x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/duet.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Duet /2009/ paper, watercolor/ 65*50" x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01007.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Дух Богини. 2008. 53,5х33,5" x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/8794.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title
+			text="Mystery poem /2008/ paper, watercolor /44*31,5"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/015.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Lotus /2003/ paper, watercolor/40*40,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/005.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Phantom morning/2008/paper, watercolor 44*31,5" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/016.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Candle burnt.../2007/ paper, watercolor/68,5*30"
+			x="0" y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+	<item type="image">
+		<image url="data/images/gallery/compo/10006.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Магический свет. 2009. Б, акв. 34х20" x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/portrait/scan2.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Марина. 2008. Б., акв." x="0" y="570"
+			color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+	<item type="image">
+		<image url="data/images/gallery/compo/01001.jpg" y="0" x="0"
+			alpha="0" visible="false" autoShowHide="0" noScale="1" />
+		<title text="Anne and Kandinskij/2004/paper, watercolor 22,5*28" x="0"
+			y="570" color="#FFFFFF" size="10" font="Arial" />
+		<tweenOut delay="0" duration="0.5">
+			<effect value="0" paramert="alpha" />
+		</tweenOut>
+		<tweenIn delay="0" duration="0.5">
+			<effect value="1" paramert="alpha" />
+		</tweenIn>
+	</item>
+
+
+
+</data>

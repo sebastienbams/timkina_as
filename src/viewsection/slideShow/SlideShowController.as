@@ -200,8 +200,15 @@ package viewsection.slideShow
 			
             return;
             
+            
+            
         }
         		
+		/**
+		 * Дабавить картинку  
+		 * @param property xml data
+		 * 
+		 */		
 		override protected function addImage( property:XML ):void
 		{
 				

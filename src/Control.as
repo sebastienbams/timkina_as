@@ -310,10 +310,14 @@ package
 
        		case "gal_en":
        			_showHideScene("gal", false, "en" );
+       			_showHideScene("gal_pw", false, "en");
        			
+       			_showHideScene("intro", true, "ru");
        			_showHideScene( "publics", true, "ru" );
        			_showHideScene("about", true, "en");
        			_showHideScene("intro", true, "en");
+       			
+       			_eventSend( MyEvent.SELECT, "gal_en", "menu1_en" );
         		break;
 
        		case "portrait_ru":
@@ -326,6 +330,16 @@ package
         		_menuGalProc_ru( arg1 );
         		break;
         		
+       		case "portrait_en":
+       		case "natute_en":
+       		case "landscape_en":
+       		case "compo_en":
+       		case "book_en":
+       		case "ris_en":
+        		_showHideScene("gal_pw", true, "en");
+        		_menuGalProc_en( arg1 );
+        		break;
+
        		case "nextImage":
        		case "prevImage":
        		
@@ -443,7 +457,7 @@ package
 				}
 			}
     		
-    		_eventSend ( MyEvent.SELECT, arg1, "gal_menu_ru" ); 
+    		_eventSend ( MyEvent.SELECT, arg1, "gal_menu_en" ); 
 
         	return;
         }
