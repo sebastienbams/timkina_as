@@ -237,6 +237,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/129.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Башни и трубы. Осень в Псковско-Печерском монастыре. 1993. Бумага, картон 29,5х20,5" color="#FFFFFF" size="10" font="Arial" />
@@ -247,6 +248,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/185.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Надвратная часовня. Серия «Псково-Печерский монастырь». 1993. Б., 28х20" color="#FFFFFF" size="10" font="Arial" />
@@ -257,6 +259,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/183.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Мостик. Серия «Псково-Печерский монастырь». 1993. Б., кар. 29Х19,5" color="#FFFFFF" size="10" font="Arial" />
@@ -267,6 +270,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/181.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Монастырское утро. Серия «Псково- Печерский монастырь». 1993. Б., кар. 28,5х19,5" color="#FFFFFF" size="10" font="Arial" />
@@ -287,6 +291,8 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+ 
+ 
   <item type="image">
   		<image url="data/images/gallery/paint/188.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Крыши. Серия «Псково-Печерский монастырь». 1993. Б., карт. 28х20" color="#FFFFFF" size="10" font="Arial" />
@@ -297,6 +303,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/177.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Церковь св. Клемента. Серия «Псков». 1994. Б., кар. 21,5х22,5" color="#FFFFFF" size="10" font="Arial" />
@@ -307,6 +314,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/175.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Звонница. Серия «Псков». 1994. Б., кар. 17х25,5" color="#FFFFFF" size="10" font="Arial" />
@@ -317,6 +325,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/174.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Меньшиковские палаты. Серия «Псков». 1994. Б., кар. 20Х28,5" color="#FFFFFF" size="10" font="Arial" />
@@ -327,6 +336,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/173.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Старая ива. Бендеры. 1990. Б., кар. 24х20" color="#FFFFFF" size="10" font="Arial" />
@@ -337,6 +347,7 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
+  
   <item type="image">
   		<image url="data/images/gallery/paint/171.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Дворик в Бендерах. 1990. Б., кар. 27,5х20" color="#FFFFFF" size="10" font="Arial" />
@@ -349,7 +360,7 @@
   </item>
   
   <item type="image">
-  		<image url="data/images/gallery/book/Untitled-11.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
+  		<image url="data/images/gallery/paint/Untitled-11.jpg" y="0" x="0"  alpha="0" visible="false" autoShowHide="0" noScale="1"/>
 	  	<title text="Интерьер особняка XIX века. Б., акв." color="#FFFFFF" size="10" font="Arial" />
 	  	<tweenOut delay="0" duration="0.5" >
 	  		<effect value="0" paramert="alpha"/>
@@ -358,5 +369,5 @@
 	  		<effect value="1" paramert="alpha"/>
 	  	</tweenIn>
   </item>
-   
-</data>
+ 
+ </data>
