@@ -31,6 +31,8 @@ package viewsection.text
 			textBlock.height = Number(arg1.@height);
 			textBlock.width = Number(arg1.@width);
 			
+			maxHeight = textBlock.height;
+			
 			scrollAble = ( arg1.@scroll == "1" ) ? true : false;
 			
                     
@@ -50,7 +52,7 @@ package viewsection.text
 				
 	            begScroll = new flash.display.Sprite();
 	            begScroll.addChild(new viewsection.text.ScrollBeg());
-	            begScroll.y = begScroll.height;
+	            begScroll.y = upScroll.height;
 	            begScroll.x = textBlock.width;
 				begScroll.alpha = 1;
 	
@@ -59,7 +61,7 @@ package viewsection.text
 				var square:Shape = new Shape();
 				
 				square.graphics.beginBitmapFill(new ScrollBar().bitmapData);
-				square.graphics.drawRect(textBlock.width, downScroll.height, downScroll.width, textBlock.height-downScroll.height*2);
+				square.graphics.drawRect(textBlock.width, downScroll.height, downScroll.width, maxHeight-downScroll.height*2);
 	
 				addChild(square);
 
@@ -69,6 +71,8 @@ package viewsection.text
 				addChild(downScroll);
 				addChild(upScroll);
 				addChild(begScroll);
+				
+				
             
             }
 			
@@ -87,20 +91,43 @@ package viewsection.text
 		public function mouseDownScroll(event:MouseEvent):void
 		{
 			if ( visible ){
-				textBlock.scrollV += 10;
-				var y:int = ((textBlock.height-downScroll.height*2)/(textBlock.maxScrollV != 0 ? textBlock.maxScrollV : 1 )) * textBlock.scrollV;
-				y = y > (textBlock.height - downScroll.height)  ? textBlock.height : y ;
-				begScroll.y = y;   	
+
+				//textBlock.scrollV += scrollStep;
+				
+				tweenScrollDown = new com.gskinner.motion.GTween(textBlock, 0.3, {"scrollV": (textBlock.scrollV+scrollStep) }, {"ease":mx.effects.easing.Linear.easeIn});
+				
+				var inc:Number = ( ( maxHeight-downScroll.height*2 ) / textBlock.maxScrollV ) * scrollStep; 
+				 
+				var newY:Number = begScroll.y + inc;
+				newY = textBlock.scrollV+scrollStep >= textBlock.maxScrollV  ? maxHeight-upScroll.height-begScroll.height : newY ;
+				
+				tweenScrollBeg = new com.gskinner.motion.GTween(begScroll, 0.3, {"y": (newY) }, {"ease":mx.effects.easing.Linear.easeIn});
+				
+				tweenScrollBeg.play(); 
+				tweenScrollDown.play(); 
+
 			}
 		}
 			
 		public function mouseUpScroll(event:MouseEvent):void
 		{
 			if ( visible ){
-				textBlock.scrollV += -10;
-				var y:int = ((textBlock.height-downScroll.height*2)/(textBlock.maxScrollV != 0 ? textBlock.maxScrollV : 1 )) * textBlock.scrollV;
-				y = y < downScroll.height  ? downScroll.height : y ;  
-				begScroll.y = y;   	
+				
+				//textBlock.scrollV -= scrollStep;
+				  
+				tweenScrollUp = new com.gskinner.motion.GTween(textBlock, 0.3, {"scrollV": (textBlock.scrollV-scrollStep) }, {"ease":mx.effects.easing.Linear.easeIn});
+				
+				var inc:Number = ( ( maxHeight-downScroll.height*2 ) / textBlock.maxScrollV ) * scrollStep;
+				
+				var newY:Number = begScroll.y - inc;
+				newY = newY <= upScroll.y+upScroll.height  ? upScroll.y+upScroll.height : newY ;
+				
+				tweenScrollBeg = new com.gskinner.motion.GTween(begScroll, 0.3, {"y": (newY) }, {"ease":mx.effects.easing.Linear.easeIn});
+				
+				tweenScrollBeg.play(); 
+				
+				tweenScrollUp.play(); 				
+				 
 			}
 		}
 		
@@ -139,13 +166,13 @@ package viewsection.text
 			  
 			 var styleObj:Object = new Object(); 
 			 styleObj.fontSize = "16"; 
-			 styleObj.color = "#AAAAAA";
+			 styleObj.color = "#FFFFFF";
 			 styleObj.fontFamily = Control.getInstance().getMyFont().fontName;
 			 style.setStyle("p", styleObj);
 
 			 var styleObj1:Object = new Object(); 
 			 styleObj1.fontSize = "25"; 
-			 styleObj1.color = "#AAAAAA";
+			 styleObj1.color = "#FFFFFF";
 			 styleObj1.fontFamily = Control.getInstance().getMyFont().fontName;
 
 			 style.setStyle("h1", styleObj1);
@@ -153,6 +180,8 @@ package viewsection.text
 			textBlock.styleSheet = style;
 			
 			textBlock.htmlText = HTMLText;
+			
+ 
 			
 			textBlock.alpha = 1;
 			
@@ -227,7 +256,13 @@ package viewsection.text
         
         private var scrollAble:Boolean = false;
         
+        private var scrollStep:Number = 10;
         
+        private var maxHeight:Number = 0;
+        
+        private var tweenScrollDown: com.gskinner.motion.GTween;
+        private var tweenScrollUp: com.gskinner.motion.GTween;
+        private var tweenScrollBeg: com.gskinner.motion.GTween;
         
 	}
 	
