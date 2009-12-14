@@ -31,33 +31,46 @@ package viewsection.text
 			textBlock.height = Number(arg1.@height);
 			textBlock.width = Number(arg1.@width);
 			
+			scrollAble = ( arg1.@scroll == "1" ) ? true : false;
+			
                     
-            upScroll = new flash.display.Sprite();
-            upScroll.addChild(new viewsection.text.UpScroll());
-            upScroll.y = 0;
-            upScroll.x = textBlock.width;
-			upScroll.alpha = 1;
+            if ( scrollAble ){
+            	
+	            upScroll = new flash.display.Sprite();
+	            upScroll.addChild(new viewsection.text.UpScroll());
+	            upScroll.y = 0;
+	            upScroll.x = textBlock.width;
+				upScroll.alpha = 1;
+	
+	            downScroll = new flash.display.Sprite();
+	            downScroll.addChild(new viewsection.text.DownScroll());
+	            downScroll.y = textBlock.height-downScroll.height;
+	            downScroll.x = textBlock.width;
+				downScroll.alpha = 1;
+				
+	            begScroll = new flash.display.Sprite();
+	            begScroll.addChild(new viewsection.text.ScrollBeg());
+	            begScroll.y = begScroll.height;
+	            begScroll.x = textBlock.width;
+				begScroll.alpha = 1;
+	
+				var rect:Rectangle = new Rectangle( textBlock.width - downScroll.width, 0, downScroll.width, textBlock.height-downScroll.height*2 );
+				
+				var square:Shape = new Shape();
+				
+				square.graphics.beginBitmapFill(new ScrollBar().bitmapData);
+				square.graphics.drawRect(textBlock.width, downScroll.height, downScroll.width, textBlock.height-downScroll.height*2);
+	
+				addChild(square);
 
-            downScroll = new flash.display.Sprite();
-            downScroll.addChild(new viewsection.text.DownScroll());
-            downScroll.y = textBlock.height-downScroll.height;
-            downScroll.x = textBlock.width;
-			downScroll.alpha = 1;
-			
-            begScroll = new flash.display.Sprite();
-            begScroll.addChild(new viewsection.text.ScrollBeg());
-            begScroll.y = begScroll.height;
-            begScroll.x = textBlock.width;
-			begScroll.alpha = 1;
-
-			var rect:Rectangle = new Rectangle( textBlock.width - downScroll.width, 0, downScroll.width, textBlock.height-downScroll.height*2 );
-			
-			var square:Shape = new Shape();
-			
-			square.graphics.beginBitmapFill(new ScrollBar().bitmapData);
-			square.graphics.drawRect(textBlock.width, downScroll.height, downScroll.width, textBlock.height-downScroll.height*2);
-
-			addChild(square);
+	            upScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseUpScroll);
+    	        downScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseDownScroll);
+            	
+				addChild(downScroll);
+				addChild(upScroll);
+				addChild(begScroll);
+            
+            }
 			
 			h = Number(arg1.@height);
 			w = Number(arg1.@width);
@@ -68,8 +81,6 @@ package viewsection.text
             alpha = 1;
             visible = true;
             
-            upScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseUpScroll);
-            downScroll.addEventListener(flash.events.MouseEvent.CLICK, mouseDownScroll);
             
 		}
 
@@ -146,9 +157,7 @@ package viewsection.text
 			textBlock.alpha = 1;
 			
 			addChild( textBlock );
-			addChild(downScroll);
-			addChild(upScroll);
-			addChild(begScroll);
+
 		
 		}
 		
@@ -215,6 +224,8 @@ package viewsection.text
         private var downScroll:flash.display.Sprite;
         
         private var begScroll:flash.display.Sprite;
+        
+        private var scrollAble:Boolean = false;
         
         
         
