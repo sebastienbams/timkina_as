@@ -266,12 +266,29 @@ package
 					_menuGalProc_ru( "" );
 
         			break;
+
+        	case "publ_ru":
+			
+					_showHideScene( "publics", false, "ru" );
+					
+					_showHideScene( "about", true, "ru" );
+					_showHideScene( "intro", true, "ru" );
+					_showHideScene( "gal", true, "ru" );
+					_showHideScene("gal_pw", true, "ru");
+					_menuGalProc_ru( "" );
+					
+        			_eventSend( MyEvent.SELECT, "publ_ru", "menu1" );
+					
+        		break;
         	
         	case "about_ru":
 
 					_showHideScene( "about", false, "ru" );
+					
+					_showHideScene( "publics", true, "ru" );
 					_showHideScene( "intro", true, "ru" );
 					_showHideScene( "gal", true, "ru" );
+					_showHideScene("gal_pw", true, "ru");
 					_menuGalProc_ru( "" );
 					
         			_eventSend( MyEvent.SELECT, "about_ru", "menu1" );
@@ -283,6 +300,7 @@ package
        			_showHideScene("gal", false, "ru");
        			_showHideScene("gal_pw", false, "ru");
        			
+       			_showHideScene( "publics", true, "ru" );
        			_showHideScene("about", true, "ru");
        			_showHideScene("intro", true, "ru");
 
@@ -292,6 +310,8 @@ package
 
        		case "gal_en":
        			_showHideScene("gal", false, "en" );
+       			
+       			_showHideScene( "publics", true, "ru" );
        			_showHideScene("about", true, "en");
        			_showHideScene("intro", true, "en");
         		break;
