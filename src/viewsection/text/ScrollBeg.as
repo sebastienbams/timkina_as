@@ -2,7 +2,7 @@ package viewsection.text
 {
     import mx.core.*;
     
-    [Embed(source="scrollbeg.jpg")]
+    [Embed(source="scrollbeg.png")]
     public class ScrollBeg extends mx.core.BitmapAsset
     {
         public function ScrollBeg()

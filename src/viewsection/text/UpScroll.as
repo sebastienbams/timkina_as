@@ -2,7 +2,7 @@ package viewsection.text
 {
     import mx.core.*;
     
-    [Embed(source="upscroll.jpg")]
+    [Embed(source="upscroll.png")]
     public class UpScroll extends mx.core.BitmapAsset
     {
         public function UpScroll()
