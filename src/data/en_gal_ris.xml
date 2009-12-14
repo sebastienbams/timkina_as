@@ -1,6 +1,6 @@
 <data>
 
-  <nastr x="0" y="1" height="590" width="700" controlMenu="slideControlRis" />
+  <nastr x="0" y="1" height="590" width="700" controlMenu="enslideControlRis" />
   
   <item type="image">
   		<image url="data/images/gallery/paint/134.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>

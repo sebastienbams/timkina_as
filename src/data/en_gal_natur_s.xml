@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_natur.xml" id="data/en_gal_natur.xml" />  
   
-  <item type="menu" url="data/slideControlNatur.xml" id="enslideControlNatur" />
+  <item type="menu" url="data/en_slideControlNatur.xml" id="enslideControlNatur" />
 
 </data>

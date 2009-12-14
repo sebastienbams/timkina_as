@@ -1,6 +1,6 @@
 <data>
 
-  <nastr x="0" y="20" height="590" width="700" controlMenu="slideControlPez" />
+  <nastr x="0" y="20" height="590" width="700" controlMenu="enslideControlPez" />
   
   <item type="image">
   		<image url="data/images/gallery/landscape/119.jpg" y="0" x="0"  alpha="1" visible="true" autoShowHide="0" noScale="1"/>

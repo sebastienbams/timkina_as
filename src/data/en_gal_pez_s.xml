@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_pez.xml" id="en_gal_pez" />  
   
-  <item type="menu" url="data/slideControlPez.xml" id="enslideControlPez" />
+  <item type="menu" url="data/en_slideControlPez.xml" id="enslideControlPez" />
 
 </data>

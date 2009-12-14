@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_ris.xml" id="data/en_gal_ris.xml" />  
   
-  <item type="menu" url="data/slideControlRis.xml" id="enslideControlRis" />
+  <item type="menu" url="data/en_slideControlRis.xml" id="enslideControlRis" />
 
 </data>

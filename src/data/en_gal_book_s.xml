@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_book.xml" id="data/en_gal_book.xml" />  
   
-  <item type="menu" url="data/slideControlBook.xml" id="enslideControlBook" />
+  <item type="menu" url="data/en_slideControlBook.xml" id="enslideControlBook" />
 
 </data>

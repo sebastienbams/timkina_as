@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_compo.xml" id="data/en_gal_compo.xml" />  
   
-  <item type="menu" url="data/slideControlCompo.xml" id="enslideControlCompo" />
+  <item type="menu" url="data/en_slideControlCompo.xml" id="enslideControlCompo" />
 
 </data>

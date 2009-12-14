@@ -4,6 +4,6 @@
   
   <item type="slideShow" url="data/en_gal_portets.xml" id="data/en_gal_portets.xml" />  
   
-  <item type="menu" url="data/slideControlPortrets.xml" id="enslideControlPortrets" />
+  <item type="menu" url="data/en_slideControlPortrets.xml" id="enslideControlPortrets" />
 
 </data>

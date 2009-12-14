@@ -250,8 +250,10 @@ package
 					_showHideScene( "mainmenu", false, "ru" );
 					_showHideScene( "intro", false, "ru" );
 					
-					//_showHideScene("gal", true, "en");
-					//_menuGalProc_en("");
+					_showHideScene("gal", true, "en");
+					_showHideScene("gal_pw", true, "en");
+					
+					_menuGalProc_en("");
 					
         			break;
 
@@ -261,7 +263,9 @@ package
 
 					_showHideScene( "mainmenu", false, "en" );
 					_showHideScene( "intro", false, "en" );
+					
 					_showHideScene( "gal", true, "ru" );
+					_showHideScene( "gal_pw", true, "ru" );
 
 					_menuGalProc_ru( "" );
 

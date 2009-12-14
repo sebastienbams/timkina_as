@@ -2,8 +2,6 @@
 
 	<nastr x="0" y="67" height="97" width="1024" />
 
-
-
 	<item id="sound" image="data/images/sound_1.png"
 		imageHover="data/images/sound_2.png" x="200" y="0" alpha="0">
 
